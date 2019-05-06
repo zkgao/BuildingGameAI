@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553615704 source:d:\generator\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
